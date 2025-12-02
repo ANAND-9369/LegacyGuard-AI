@@ -190,7 +190,49 @@ Contributions welcome! Please:
 
 ## License
 
-MIT License - See LICENSE file for details
+This project is available under a **Dual License Agreement**:
+
+### For Students & Learners (FREE) ✅
+
+**Free** to use for:
+- 🎓 Personal learning and education
+- 📚 Academic research and coursework  
+- 👨‍🎓 Student projects and assignments
+- 💼 Portfolio demonstrations
+- 🔬 Non-profit research
+- 🏆 Kaggle competitions and similar platforms
+- 🤝 Open-source contributions
+
+> **No cost. No permission needed. Just give attribution!**
+
+---
+
+### For Commercial Use (PAID) 💰
+
+**Commercial license required** for:
+- 🏭 **Pharmaceutical manufacturing facilities**
+- ⚙️ **Production lines & industrial operations**
+- 🏢 **For-profit companies & organizations**
+- 💵 **Revenue-generating systems**
+- 📊 **Consulting services using this software**
+- 🚀 **Integration into commercial products**
+
+#### How to Get a Commercial License:
+
+📧 **Contact:** anand9369prakash@gmail.com  
+💬 **Subject:** "LegacyGuard-AI Commercial License Inquiry"  
+📝 **Include:**
+   - Your company name & industry
+   - Intended use case
+   - Expected deployment scale
+
+**Pricing:** Custom pricing based on deployment size and industry requirements.
+
+> ⚠️ **Important:** Using this software commercially without a valid license is strictly prohibited and violates the license terms.
+
+---
+
+📄 **Full License Details:** See [LICENSE](./LICENSE) file
 
 ## Author
 
