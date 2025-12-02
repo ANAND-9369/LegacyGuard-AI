@@ -1,16 +1,72 @@
-MIT License
+DUAL LICENSE AGREEMENT
+LegacyGuard-AI Multi-Agent Pharmaceutical Jam Detection System
 
 Copyright (c) 2025 ANAND BINU PRAKASH
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+================================================================================
+LICENSE TERMS
+================================================================================
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This software is available under TWO different licensing options:
+
+1. NON-COMMERCIAL LICENSE (FREE)
+2. COMMERCIAL LICENSE (PAID)
+
+================================================================================
+1. NON-COMMERCIAL LICENSE (FREE)
+================================================================================
+
+Permission is hereby granted, FREE OF CHARGE, to any person or organization
+obtaining a copy of this software and associated documentation files (the
+"Software"), to use, copy, modify, and distribute the Software for
+NON-COMMERCIAL PURPOSES ONLY, subject to the following conditions:
+
+ALLOWED USES (Free):
+✓ Personal learning and education
+✓ Academic research and coursework
+✓ Student projects and assignments
+✓ Portfolio demonstrations
+✓ Non-profit research organizations
+✓ Kaggle competitions and similar platforms
+✓ Open-source contributions
+✓ Educational workshops and training
+
+REQUIREMENTS:
+a) The above copyright notice and this license must be included in all
+   copies or substantial portions of the Software.
+b) Any modifications or derivative works must clearly indicate changes made.
+c) Attribution to the original author (Anand Binu Prakash) must be maintained.
+d) This Software may not be used for any commercial purposes without obtaining
+   a separate Commercial License.
+
+================================================================================
+2. COMMERCIAL LICENSE (PAID)
+================================================================================
+
+COMMERCIAL USE DEFINITION:
+Commercial use includes, but is not limited to:
+✗ Use in pharmaceutical manufacturing facilities
+✗ Use in production lines or industrial operations
+✗ Integration into commercial products or services
+✗ Use by for-profit companies or organizations
+✗ Deployment in revenue-generating systems
+✗ Consulting services using this Software
+✗ Any use where the Software directly or indirectly generates revenue
+
+TO OBTAIN A COMMERCIAL LICENSE:
+If you wish to use this Software for any commercial purposes, you MUST:
+
+1. Contact the author for licensing terms: anand9369prakash@gmail.com
+2. Negotiate and execute a separate Commercial License Agreement
+3. Pay the agreed licensing fee
+4. Receive written authorization before deployment
+
+Commercial use WITHOUT a valid Commercial License Agreement is strictly
+PROHIBITED and constitutes a violation of this license.
+
+================================================================================
+DISCLAIMER OF WARRANTY
+================================================================================
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -19,3 +75,34 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+================================================================================
+LIMITATION OF LIABILITY
+================================================================================
+
+Under no circumstances shall the author be liable for any direct, indirect,
+incidental, special, exemplary, or consequential damages arising out of the
+use or inability to use the Software, even if advised of the possibility of
+such damages.
+
+================================================================================
+GOVERNING LAW
+================================================================================
+
+This license shall be governed by and construed in accordance with the laws
+of India. Any disputes arising under this license shall be subject to the
+exclusive jurisdiction of the courts in India.
+
+================================================================================
+CONTACT INFORMATION
+================================================================================
+
+For Commercial License inquiries:
+Email: anand9369prakash@gmail.com
+GitHub: @ANAND-9369
+Project: https://github.com/ANAND-9369/LegacyGuard-AI
+
+================================================================================
+LICENSE VERSION: 1.0
+Last Updated: December 2, 2025
+================================================================================
