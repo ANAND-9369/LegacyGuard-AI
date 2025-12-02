@@ -219,7 +219,7 @@ This project is available under a **Dual License Agreement**:
 
 #### How to Get a Commercial License:
 
-📧 **Contact:** pnandbinu93@gmail.com  
+📧 **Contact:** panandbinu@gmail.com  
 💬 **Subject:** "LegacyGuard-AI Commercial License Inquiry"  
 📝 **Include:**
    - Your company name & industry
